@@ -7,7 +7,7 @@ public class LoginTest
 	@Test
 	public void method()
 	{
-		System.out.println("logn done");
+		System.out.println("logn don");
 	}
 
 }
